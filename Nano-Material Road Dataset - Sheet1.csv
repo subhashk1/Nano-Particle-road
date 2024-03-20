@@ -1,0 +1,8 @@
+Material,Output (per sq. meter),Cost (per sq. meter),Durability,Efficiency,Sensitivity,Maintenance,Scalability
+Piezoelectric,0.05 W,$50,7.5 years,Medium,Low,Very Low,High
+Triboelectric,0.01 W,$5,5.5 years,High,High,Low,Very High
+Thermoelectric,0.55 W,$275,11.5 years,Medium,Medium,Low,Very High
+Photovoltaic,105 W,$1.10,20 years,Medium,Very Low,High,Medium
+Electroactive Polymers,0.05 W,$27.50,3.5 years,Medium,Very Low,Low,High
+Magnetoelectric,0.05 W,$550,8.5 years,High,High,Low,Very High
+Pyroelectric,0.05 W,$110,7.5 years,High,Medium,Very Low,High
